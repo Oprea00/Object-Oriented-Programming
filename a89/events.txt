@@ -1,0 +1,9 @@
+a, AAA, 12-10-2021-14-0, 15, https://www.google.ro/
+b, b, 11-10-2021-21-35, 500, https://www.google.ro/
+aaaa, aaa, 1-10-2021-1-1, 45, https://www.google.ro/
+c, d, 12-10-2021-21-35, 50, https://www.google.ro/
+d, c, 13-10-2021-21-35, 500, https://www.google.ro/
+e, f, 14-10-2021-21-35, 50, https://www.google.ro/
+f, e, 15-10-2021-21-35, 510, https://www.google.ro/
+new, new, 12-12-2021-12-29, 89, https://www.google.ro/
+GUI, admin, 17-5-2021-16-30, 75, https://www.google.ro/

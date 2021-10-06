@@ -1,0 +1,21 @@
+[2021-03-29 17:41:41] [info] Start Program:
+Path:"D:\\ubb\\an3\\sem2\\OOP\\labs\\a45-Oprea00\\a45\\Debug\\a45.exe"
+Arguments:
+Working directory: "D:\\ubb\\an3\\sem2\\OOP\\labs\\a45-Oprea00\\a45\\a45\\"
+Modules: Selected: D:\ubb\an3\sem2\OOP\labs\a45-Oprea00\a45\Debug\a45.exe Excluded: 
+Sources: Selected: D:\ubb\an3\sem2\OOP\labs\a45-Oprea00\a45\a45 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\oprea\AppData\Local\Temp\efrqgn11.bqm 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-03-29 17:41:41] [info] Module: D:\ubb\an3\sem2\OOP\labs\a45-Oprea00\a45\Debug\a45.exe is selected because it matches selected pattern: D:\ubb\an3\sem2\OOP\labs\a45-Oprea00\a45\Debug\a45.exe
+[2021-03-29 17:41:43] [info] ----------------------------------------------------
+[2021-03-29 17:41:43] [info] Coverage binary generated in file: C:\Users\oprea\AppData\Local\Temp\efrqgn11.bqm
+[2021-03-29 17:41:43] [info] ----------------------------------------------------
